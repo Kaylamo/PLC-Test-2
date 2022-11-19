@@ -9,4 +9,4 @@ a. Lexemes in a Regular Expression:
  Operators : +, -, *, /, %, =, =/=, <,>,<=,>=
  Punctuation : , “” ‘’
  
- b.![Question b](b.png)
+ ![My Image](Test2.pdf)
